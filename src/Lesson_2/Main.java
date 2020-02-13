@@ -3,6 +3,7 @@ package Lesson_2;
 public class Main {
 
     public static void main(String[] args) {
+        //Вызываем медот, который заполняем массив из заданного кол. номеров случайными числами
         arrayRandom(5, 5);
     }
 
